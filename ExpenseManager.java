@@ -17,7 +17,7 @@ public class ExpenseManager extends JFrame {
     private List<Expense> expenses;
     private DefaultTableModel expenseTableModel;
     private JTable expenseTable;
-    private Accounts currentUser; // Added field for the current user
+    private Accounts currentUser; 
 
     public ExpenseManager(Accounts user) {
         this.currentUser = user;
