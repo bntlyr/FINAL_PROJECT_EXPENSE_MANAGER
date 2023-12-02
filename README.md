@@ -24,9 +24,9 @@ Personal Expense Manager is a Java-based application designed to help users effi
 ## Concepts used in Operations
 
 1. GUI - All of the User Interface
-2. Creating - Adding Expenses
-3. Removing/Deleting - Removing Expenses
-4. Updating - Update Expenses
+2. Creating - used in Adding Expenses with FileHandling
+3. Removing/Deleting - used in Removing Expenses with FileHandling
+4. Updating - used Update Expenses with FileHandling
 5. Exceptions - used in File Handling.
 6. Data Processing - used in generating of Reports.
 7. Input and Output Stream - Used in FileHandling to save data for user, expenses, and reports.
