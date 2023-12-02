@@ -6,11 +6,11 @@ Personal Expense Manager is a Java-based application designed to help users effi
 
 ## Features
 
-*Expense Tracking: Add Records and categorize your expenses.
-*Income View: Have a view of you income, budget and money saved.
-*Report Generation: Generates detailed report of all your expenses and calculates your spendings.
-*Category Picker: Have a set of category to make your expenses more specific.
-*User authentication: Sign-up or Login to protect you data from other people.
+1. Expense Tracking: Add Records and categorize your expenses.
+2. Income View: Have a view of you income, budget and money saved.
+3. Report Generation: Generates detailed report of all your expenses and calculates your spendings.
+4. Category Picker: Have a set of category to make your expenses more specific.
+5. User authentication: Sign-up or Login to protect you data from other people.
 
 ## License
 This project is licensed under HackstreetBoys License.
