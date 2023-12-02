@@ -8,7 +8,7 @@ Personal Expense Manager is a Java-based application designed to help users effi
 
 * Manually: Download all the files then compile and RUN main.java, make sure that all the files are in the same folder.
   
-* GitHub Workspace: Clone the repository for faster usage and testing
+* For GitHub Workspace: Clone the repository for faster usage and testing
 * Then RUN Main.java, NOTE: There might be an issue if run in an unsported workspace like Netbeans due to manual creation of GUI.
 * Supported workspaces are Visual Studio Code, Sublime Text-Editor, Ecplipse and InteliJ.
 * APPLICATION DEMO: https://youtu.be/an1YSPw2fIM
