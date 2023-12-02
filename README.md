@@ -21,6 +21,17 @@ Personal Expense Manager is a Java-based application designed to help users effi
 4. Category Picker: Have a set of category to make your expenses more specific.
 5. User authentication: Sign-up or Login to protect you data from other people.
 
+## Concepts used in Operations
+
+1. GUI - All of the User Interface
+2. Creating - Adding Expenses
+3. Removing/Deleting - Removing Expenses
+4. Updating - Update Expenses
+5. Exceptions - used in File Handling.
+6. Data Processing - used in generating of Reports.
+7. Input and Output Stream - Used in FileHandling to save data for user, expenses, and reports.
+8. Collections - ArrayList for the Expenses, HashMap for the User Account, and Password.
+
 ## License
 This project is licensed under HackstreetBoys License.
 
