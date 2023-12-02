@@ -16,8 +16,8 @@ Personal Expense Manager is a Java-based application designed to help users effi
 This project is licensed under HackstreetBoys License.
 
 ## Members:
-*Feir, Jaylo Emmanuel G.
-*Rafa, Bently B.
-*Tolentino, John Renz S.
-*Tuban, Edilson D.
+* Feir, Jaylo Emmanuel G.
+* Rafa, Bently B.
+* Tolentino, John Renz S.
+* Tuban, Edilson D.
 
