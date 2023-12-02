@@ -4,6 +4,12 @@
 ## PERSONAL EXPENSE MANAGER
 Personal Expense Manager is a Java-based application designed to help users efficiently manage their expenses. This project provides a user-friendly interface for tracking expenses, and generating reports to gain insights into spending patterns.
 
+## How to use
+* Manually: Download all the files then compile and RUN main.java
+  
+* GitHub Workspace: Clone the repository for faster usage and testing
+* Then RUN Main.java
+
 ## Features
 
 1. Expense Tracking: Add Records and categorize your expenses.
@@ -21,3 +27,4 @@ This project is licensed under HackstreetBoys License.
 * Tolentino, John Renz S.
 * Tuban, Edilson D.
 
+## THANKYOU FOR USING PERSONAL_EXPENSE_MANAGER
